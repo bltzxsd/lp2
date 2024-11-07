@@ -10,7 +10,7 @@ void setup() {
     pinMode(pin_sel2, OUTPUT);
     pinMode(pin_sel3, OUTPUT);
     pinMode(pin_sel4, OUTPUT);
-    pinMode(pin_sel5, OUTPUT); 
+    pinMode(pin_sel5, OUTPUT);
 }
 
 void loop() {
