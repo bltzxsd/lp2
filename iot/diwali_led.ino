@@ -21,7 +21,6 @@ void loop() {
     digitalWrite(pin_sel4, LOW);
     digitalWrite(pin_sel5, LOW);
 
-
     digitalWrite(pin_sel1, HIGH);
     delay(200);
 
